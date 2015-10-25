@@ -1,4 +1,4 @@
-# uidai data 
+# UIDAI data b/w Jan 1st 2012 to Oct 24th 2015
 
 Downloaded from https://data.uidai.gov.in/uiddatacatalog/dataCatalogHome.do
 
