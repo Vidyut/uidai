@@ -8,3 +8,6 @@ Following data is missing for ENR-REG-EA:
 * https://data.uidai.gov.in/uiddatacatalog/rest/UIDAI-ENR-REG-EA/20121001/20121016/
 * https://data.uidai.gov.in/uiddatacatalog/rest/UIDAI-ENR-REG-EA/20121017/20121031/
   
+Following data is missing for ENR-DETAIL: 
+* https://data.uidai.gov.in/uiddatacatalog/rest/UIDAI-ENR-DETAIL/20120901/20120915/
+* https://data.uidai.gov.in/uiddatacatalog/rest/UIDAI-ENR-DETAIL/20120916/20120930/
